@@ -1,5 +1,8 @@
-
+resolviendo conflictos con exito, ambos cambios aqui:
 
 modificando un poco`
+
+realizare cambios distintos
+
 
 Hola este es un archivo txt de prueba

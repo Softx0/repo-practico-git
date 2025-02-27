@@ -1,8 +1,13 @@
 resolviendo conflictos con exito, ambos cambios aqui:
 
-modificando un poco`
+modificando un poco
 
 realizare cambios distintos
 
 Cambio para el feature08 y tambien para probar el git rebase
+
 Hola este es un archivo txt de prueba
+
+Esto se va a poner feo con git rebase
+
+git rebase bobo

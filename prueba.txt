@@ -4,5 +4,12 @@ modificando un poco`
 
 realizare cambios distintos
 
-
 Hola este es un archivo txt de prueba
+
+
+Esto se va a poner feo con git rebase
+
+
+
+
+git rebase bobo

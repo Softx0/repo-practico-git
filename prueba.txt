@@ -15,3 +15,7 @@ Hola este es un archivo txt de prueba
 Esto se va a poner feo con git rebase
 
 git rebase bobo
+
+
+Validemos con git diff
+

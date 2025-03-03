@@ -10,3 +10,4 @@ Aqui habra conflicto
 
 Git Rebase papa
 
+git diff papa

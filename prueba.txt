@@ -16,4 +16,4 @@ Esto se va a poner feo con git rebase
 
 git rebase bobo
 
-tambien trabajando con git revert`
+tambien trabajando con git revert

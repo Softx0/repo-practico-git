@@ -10,3 +10,10 @@ Aqui habra conflicto
 
 Git Rebase papa
 
+
+
+
+Vamos a hacer un cambio para probar git reset head
+
+
+Ajustando para hacer un cambio antes de

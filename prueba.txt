@@ -15,3 +15,10 @@ Hola este es un archivo txt de prueba
 Esto se va a poner feo con git rebase
 
 git rebase bobo
+
+
+este es un cambio exclusivo para commitear no para pushear y para luego hacerle reset
+
+
+
+Realizando un cambio para validar el git revert

@@ -18,6 +18,6 @@ git rebase bobo
 
 tambien trabajando con git revert
 
-
+### Esta area es para probar los comandos de git commit --amend y git stash
 
 Cambiemos la fecha de este commit

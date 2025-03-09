@@ -17,3 +17,6 @@ Vamos a hacer un cambio para probar git reset head
 A partir de ahora realizaremos algunos ammend a los commit message hechos
 
 Este si sera un cambio hermoso
+
+
+Veremos que pasa

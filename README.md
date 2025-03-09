@@ -12,3 +12,6 @@ Git Rebase papa
 
 Ajustando para hacer un cambio antes de
 Vamos a hacer un cambio para probar git reset head
+
+
+A partir de ahora realizaremos algunos ammend a los commit message hechos

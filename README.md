@@ -18,6 +18,11 @@ A partir de ahora realizaremos algunos ammend a los commit message hechos
 
 Este si sera un cambio hermoso
 
+Jajajaj joker
 
 Veamos que tanto verbo nos da el commit message in execution
-Veremos que pasa
+iVeremos que pasa
+
+
+
+Vamos a crear algo de conflicto

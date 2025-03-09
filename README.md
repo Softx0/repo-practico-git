@@ -21,8 +21,6 @@ Este si sera un cambio hermoso
 Jajajaj joker
 
 Veamos que tanto verbo nos da el commit message in execution
-iVeremos que pasa
-
-
+Veremos que pasa
 
 Vamos a crear algo de conflicto

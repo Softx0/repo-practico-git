@@ -4,8 +4,18 @@ function validateUser(username, password) {
     return false;
   }
   
+  // Validación de caracteres especiales
+  if (!/[!@#$%^&*(),.?":{}|<>]/.test(password)) {
+    return false;
+  }
+  
   // Aquí iría la lógica real de autenticación
   return true;
 }
 
-module.exports = { validateUser };
+function getUserRole(username) {
+  // Determinar rol del usuario
+  return 'user'; // Por defecto
+}
+
+module.exports = { validateUser, getUserRole };

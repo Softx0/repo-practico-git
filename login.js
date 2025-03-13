@@ -20,3 +20,4 @@ function getUserRole(username) {
 
 module.exports = { validateUser, getUserRole };
 function resetPassword(username) { /* TODO */ }
+// Sistema completo
